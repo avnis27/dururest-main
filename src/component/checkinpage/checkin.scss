@@ -1,0 +1,175 @@
+.extant{
+    border-radius: 40px!important;
+    padding: 0px 20px!important;
+    margin: 0px 5px!important;
+    font-weight: 500!important;
+    font-size: 15px!important;
+    letter-spacing: -0.01em!important;
+    text-transform: capitalize!important;
+    font-family : 'Avenir'!important;
+    height: 30px;
+}
+.ex_tant{
+        line-height: 124%!important;
+        letter-spacing: -0.03em!important;
+        color: #16161A!important;
+        font-family : 'Avenir'!important;
+}
+.MuiContainer-root {
+    padding-left: 19px!important;
+    padding-right: 20px!important;
+}
+.smlogo{
+     margin-top: 15px!important;
+}
+.MuiAvatar-colorDefault {
+    color: #fafafa;
+    background-color: #bdbdbd;
+    margin: auto!important;
+}
+.bhvn{
+    background-color: #F5F6FB!important;
+}
+.headcontent_height{
+    height: 70px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    font-family : 'Avenir'!important;
+    h4{
+        color: #403F3F!important;
+        font-weight: 500!important;
+        font-size: 21px!important;
+        font-family : 'Avenir'!important;
+    }
+
+}
+.content_height{
+    height: 70px;
+    line-height: 160%;
+    h6{
+    font-size: 15px!important;
+    line-height: 160%!important;
+    font-family : 'Avenir'!important;
+    }
+}
+.content{
+    text-align: left;
+    background: #F5F6FB!important;
+}
+.main_content{
+         background: #F5F6FB!important;
+         width: 100%!important;
+     h4{
+         font-size: 25px;
+         font-weight: 800;
+         color: #403F3F;
+         margin: 28px 0!important;
+         font-family : 'Avenir'!important;
+     }
+     h5{
+         color: #000000;
+         font-size: 20px;
+         margin: 20px 0!important;
+         font-family: 'Open Sans'!important;
+         font-style: normal!important;
+         font-weight: normal!important; 
+     }
+}
+.primary_btn{
+    @extend .extant;
+    color: #FFFFFF!important;
+    background-color: #A093E5!important;
+    }
+.dark{
+    @extend .extant;
+    color: #1E1D2B!important;
+    border-color: #1E1D2B!important;
+   }
+.last_content{
+    margin-top: 35px;
+    background: #F5F6FB!important;
+    h6{
+        @extend .ex_tant;
+        font-weight: 500!important;
+        font-size: 16px!important;
+        margin-right: 11px!important;
+        font-family : 'Avenir'!important;
+        margin-bottom: 7px!important;
+    }
+   span{
+        @extend .ex_tant;
+        font-weight: 300!important;
+        font-size: 12px!important;
+        margin-bottom: 8px!important;
+        font-family : 'Avenir'!important;
+        }
+        p{
+            font-weight: 300!important;
+            font-size: 13px!important;
+            line-height: 160%!important;
+            color: #252323!important;
+            margin-bottom: 11px!important;
+            margin-top: 7px;
+            font-family : 'Avenir'!important;
+        }
+}
+.MuiTypography-caption{
+    font-family : 'Avenir'!important;
+}
+.sgn_text{
+    font-weight: normal!important;
+    font-size: 9px!important;
+    line-height: 11.7px!important;
+    color: #252323!important;
+    margin-bottom: 13px;
+}
+.makeStyles-paper-2 {
+    padding: 0px!important;
+}
+.MuiTypography-gutterBottom {
+     margin-bottom: 0px!important;
+}
+.MuiOutlinedInput-root{
+    background: rgba(255, 255, 255, 0.5)!important;
+    box-sizing: border-box!important;
+    border-radius: 16px!important;
+    height: 54px;
+}
+.MuiOutlinedInput-notchedOutline {
+    border-color: #A5A5AA!important;
+}
+.makeStyles-btn-7{
+    margin: 42px 0 14px 0!important;
+    background: #8663F4!important;
+    border-radius: 16px!important;
+    color: #FFFFFF!important;
+    font-size: 22px!important;
+    line-height: 30px!important;
+    text-align: center!important;
+    text-transform: initial!important;
+}
+.policy_text{
+    h6{
+    font-weight: normal!important;
+    font-size: 13px!important;
+    line-height: 18px!important;
+    margin-bottom: 77px;
+}
+}
+.MuiButton-contained {
+    box-shadow: none!important; 
+}
+.MuiTypography-colorPrimary {
+    color: #252323!important;
+    font-weight: 600!important;
+}
+.MuiLink-underlineHover {
+    text-decoration: underline!important;
+}
+#profileimages{
+    img{
+    width: 39px;
+    height: 38px;
+    }
+}
